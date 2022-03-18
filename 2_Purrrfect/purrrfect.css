@@ -1,0 +1,38 @@
+
+.container .navbar-header .icon-bar {
+	width: 30px;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	background: url(https://source.unsplash.com/153_VPk1NZQ);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+}
+
+#c {
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0pc 4px 3px rgba(0,20,0,0.4),
+				 0pc 6px 13px rgba(0,0,0,0.1),
+				 0pc 18px 23px rgba(0,0,0,0.1);
+}
+
+h1,h3 {
+	color: white;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgb(150,150,200);
+}

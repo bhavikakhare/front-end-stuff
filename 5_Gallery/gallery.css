@@ -1,0 +1,57 @@
+body {
+	padding-top: 80px;
+	font-family: 'Exo', sans-serif;
+}
+
+.jumbotron {
+	color: #3b2d47;
+	background: #c7bece;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+.navbar-inverse {
+	background: #3b2d47;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.image1 {
+  background-image: url(https://source.unsplash.com/Z3ownETsdNQ);
+}
+.image2 {
+  background-image: url(https://source.unsplash.com/0FRJ2SCuY4k);
+}
+.image3 {
+  background-image: url(https://source.unsplash.com/gq5PECP8pHE);
+}
+.image4 {
+  background-image: url(https://source.unsplash.com/j_Ch0mwBNds);
+}
+.image5 {
+  background-image: url(https://source.unsplash.com/Ujw0_8rp3U0);
+}
+.image6 {
+  background-image: url(https://source.unsplash.com/kR1Aer8c_WI);
+}
+.image7 {
+  background-image: url(https://source.unsplash.com/LRilCxO3xcE);
+}
+.image8 {
+  background-image: url(https://source.unsplash.com/t1KmiSNaXr8);
+}
+.image9 {
+  background-image: url(https://source.unsplash.com/WuhrjRi1IeI);
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}

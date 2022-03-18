@@ -1,0 +1,33 @@
+div {
+	width: 60%;
+	border: solid #bdc3c7 20px;
+	margin: auto;
+	padding: 20px;
+	font-family: source sans pro;
+}
+
+h1 {
+	color: #2c3e50;
+	font-size: 2rem;
+}
+
+hr {
+	color: #9da3a7;
+}
+
+article {
+	margin-bottom: 20px;
+}
+
+.dates {
+	color: #3498db;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0.2rem;
+}
+
+.quotes {
+	border-left: solid #bcd3c7 5px;
+	padding-left: 10px;
+}
