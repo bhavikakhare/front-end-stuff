@@ -7,6 +7,6 @@
 
 5.	Click on NEW GAME to start over.
 		
-		OR
+	OR
 
 6.	Click on EASY to play a NEW GAME on easy mode !
