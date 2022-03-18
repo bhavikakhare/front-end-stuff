@@ -1,5 +1,5 @@
 # front-end-stuff
-Experiments with front-end development
+Experiments with front-end development :)
 
 These are several tiny experiments/projects I did when learning front-end development.
 Their folder-names have number prefixes that rank them in the order in which they are my favorite.
