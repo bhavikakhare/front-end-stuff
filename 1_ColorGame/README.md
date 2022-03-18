@@ -1,3 +1,4 @@
+#
 
 1.	Open ColorGame.html in your browser.
 2.	Note the RGB color displayed at the top.
